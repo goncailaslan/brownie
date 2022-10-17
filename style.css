@@ -1,0 +1,16 @@
+.paragraph{
+    float: right;
+    }
+
+.kırmızı{
+    color: red;
+}
+.düzenle{
+    color: blue;
+    background-color: blueviolet;
+}
+.clearfix::after {
+  content:"";
+  display:block;
+  clear:both;
+  }
